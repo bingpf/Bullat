@@ -25,10 +25,9 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Majestic RP
-          Странствует по миру",
+        name: "Bullat loves Raniel",
         // Activity type number (0 = Playing).
-        type: 1343, 
+        type: 0, 
       },
     ],
   },
